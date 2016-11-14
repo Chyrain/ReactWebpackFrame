@@ -1,0 +1,72 @@
+.NDuBFkkBdzL3GoP4VRnKf {
+  opacity: 0.01;
+  -webkit-transform: opacity 0.5s ease-in;
+  transform: opacity 0.5s ease-in;
+}
+.NDuBFkkBdzL3GoP4VRnKf._3eTUzzK52i8lQorJX2_THC {
+  opacity: 1;
+}
+._2TXaO0sEJwFk6IXIlwwzmI {
+  opacity: 1;
+  -webkit-transform: opacity 0.5s ease-in;
+  transform: opacity 0.5s ease-in;
+}
+._2TXaO0sEJwFk6IXIlwwzmI.jI4f9XKOqQvlZEfxaxWlO {
+  opacity: 0.01;
+}
+.example-enter {
+  opacity: 0.01;
+}
+.example-enter.example-enter-active {
+  opacity: 1;
+  -webkit-transition: opacity 500ms ease-in;
+  transition: opacity 500ms ease-in;
+}
+.example-leave {
+  opacity: 1;
+}
+.example-leave.example-leave-active {
+  opacity: 0.01;
+  -webkit-transition: opacity 500ms ease-in;
+  transition: opacity 500ms ease-in;
+}
+html {
+  box-sizing: border-box;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+div {
+  font-size: 20px;
+  color: #aaa;
+  margin: 10px;
+  text-align: center;
+}
+.box {
+  background-color: #eee;
+  padding: 10px;
+  margin: 0;
+  border: 3px solid #ccc;
+}
+.card {
+  background-image: url(./img/pig_6d68d8cbca.jpg);
+}
